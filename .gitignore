@@ -1,0 +1,10 @@
+.env/
+.ipynb_checkpoints/*
+*.pyc
+__pycache__/*
+*.csv
+*.zip
+ml-100k/*
+ml-1m/*
+*.pdf
+*.jpg
